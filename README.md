@@ -40,5 +40,3 @@ hardware can be easily procured online.
 
 * [Intelligent IoT Projects in 7 Days](https://www.packtpub.com/hardware-and-creative/intelligent-iot-projects-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787286429)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
