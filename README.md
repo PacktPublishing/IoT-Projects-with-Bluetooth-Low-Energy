@@ -40,3 +40,7 @@ hardware can be easily procured online.
 
 * [Intelligent IoT Projects in 7 Days](https://www.packtpub.com/hardware-and-creative/intelligent-iot-projects-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787286429)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788399449">https://packt.link/free-ebook/9781788399449 </a> </p>
